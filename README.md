@@ -14,12 +14,6 @@ The 'Photo Processing' view requires the Makeup effect. You can get the effect o
 
 ## [Requirements](https://docs.banuba.com/face-ar-sdk-v1/overview/system_requirements)
 
-## Usage
-### Token
-Before you commit to a license, you are free to test all the features of the SDK for free. To start it, [send us a message](https://www.banuba.com/facear-sdk/face-filters#form).  
-We will get back to you with the trial token.
-You can store the token within the app.  
-
 Feel free to [contact us](https://docs.banuba.com/face-ar-sdk-v1/support) if you have any questions.
 
 ### Getting Started
@@ -27,8 +21,7 @@ Feel free to [contact us](https://docs.banuba.com/face-ar-sdk-v1/support) if you
 1. Clone the repository
 2. Install [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) if you don't have it.
 3. Install required project dependencies by running `pod install`.
-4. Copy and Paste your client token into appropriate section of [`quickstart-ios-swift/BanubaClientToken.swift`](quickstart-ios-swift/BanubaClientToken.swift)
-5. Open generated workspace (not a project!) in Xcode and run the example.
+4. Open generated workspace (not a project!) in Xcode and run the example.
 
 ### Docs
 You can find more info [here](https://docs.banuba.com/face-ar-sdk-v1/ios/ios_overview).
